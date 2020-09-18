@@ -5,5 +5,3 @@
 The goal of this project is to use this keybed as a user interface a future modular synth. It follows the [midi protocol](https://en.wikipedia.org/wiki/MIDI) and then is HEAVILY influenced by [elkayem's midi2cv project](https://github.com/elkayem/midi2cv) to convert this midi signal to various control voltages. It is all ported onto a single PCB which connects directly to the prexisting fatar pcb. 
 
 
-First it decodes the scan matrix based on the fatar [schematic](http://www.doepfer.de/DIY/Matrix_37.gif). 
-
