@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP AudioJack
-D Audio Jack, 2 Poles (Mono / TS)
-K audio jack receptacle mono phone headphone TS connector
-F ~
-$ENDCMP
-#
-#End Doc Library
