@@ -7,3 +7,5 @@ The goal of this project is to use this keybed as a user interface a future modu
 
 <img src="/images/top.PNG" alt="TOP-side" width="400">
 <img src="/images/bottom.PNG" alt="BOTTOM-side" width="400">
+<img src="/images/PXL_20200927_202939248.jpg" alt="Populated Board" width="400">
+
