@@ -1,4 +1,6 @@
 # FATAR-MIDI-KEYBOARD
+
+Daughter board for fatar keybed.
  
 [FATAR](http://www.fatar.com/) makes an extremely rugged 44-key keyboard with weighted keys. It is the most natural feeling key-bed that resembles an actual grand paino in a small footprint. 
 
